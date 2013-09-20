@@ -1,4 +1,4 @@
 gitparty
 ========
 
-... all the tim
+... all the time
