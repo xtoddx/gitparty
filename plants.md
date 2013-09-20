@@ -1,4 +1,3 @@
 # Boring People
 
 * xtoddx
-* zach
